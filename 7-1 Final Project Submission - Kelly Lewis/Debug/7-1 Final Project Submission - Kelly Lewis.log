@@ -1,0 +1,18 @@
+﻿  Cylinder.cpp
+C:\Users\lewis\source\repos\7-1 Final Project Submission - Kelly Lewis\Cylinder.cpp(383,32): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\lewis\source\repos\7-1 Final Project Submission - Kelly Lewis\Cylinder.cpp(383,26): warning C4244: 'initializing': conversion from 'double' to 'const GLfloat', possible loss of data
+C:\Users\lewis\source\repos\7-1 Final Project Submission - Kelly Lewis\Cylinder.cpp(426,32): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\lewis\source\repos\7-1 Final Project Submission - Kelly Lewis\Cylinder.cpp(426,26): warning C4244: 'initializing': conversion from 'double' to 'const GLfloat', possible loss of data
+  Main.cpp
+C:\Users\lewis\source\repos\7-1 Final Project Submission - Kelly Lewis\Main.cpp(327,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\lewis\source\repos\7-1 Final Project Submission - Kelly Lewis\Main.cpp(1044,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lewis\source\repos\7-1 Final Project Submission - Kelly Lewis\Main.cpp(1045,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lewis\source\repos\7-1 Final Project Submission - Kelly Lewis\Main.cpp(1049,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\lewis\source\repos\7-1 Final Project Submission - Kelly Lewis\Main.cpp(1050,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\lewis\source\repos\7-1 Final Project Submission - Kelly Lewis\Main.cpp(1052,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lewis\source\repos\7-1 Final Project Submission - Kelly Lewis\Main.cpp(1053,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lewis\source\repos\7-1 Final Project Submission - Kelly Lewis\Main.cpp(1061,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+C:\Users\lewis\source\repos\7-1 Final Project Submission - Kelly Lewis\Main.cpp(777): warning C4715: 'ULoadShaders': not all control paths return a value
+C:\Users\lewis\source\repos\7-1 Final Project Submission - Kelly Lewis\Main.cpp(904): warning C4715: 'ULoadTextures': not all control paths return a value
+  7-1 Final Project Submission - Kelly Lewis.vcxproj -> C:\Users\lewis\source\repos\7-1 Final Project Submission - Kelly Lewis\Debug\7-1 Final Project Submission - Kelly Lewis.exe
